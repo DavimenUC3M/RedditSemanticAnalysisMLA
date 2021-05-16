@@ -10,7 +10,7 @@ Universidad Carlos III de Madrid. May, 2021
 - Simón E. Sánchez Viloria 
 - Enrique Botía Barbera
 - Andres Ruíz Calvo
-- David Méndez Encina
+- David Méndez Encinas
 
 ### Usage:
 
