@@ -1,0 +1,19 @@
+# external requirements
+numpy==1.19.5
+pandas==1.1.5
+matplotlib==3.2.2
+seaborn==0.11.1
+scikit-learn==0.22.2.post1
+praw==7.2.0
+#pytorch
+torch==1.8.1+cu101
+torchvision==0.9.1+cu101
+#NLP
+nltk==3.2.5
+spacy==3.0.6
+gensim==3.6.0
+#utils
+fastprogress==1.0.0
+python-dotenv>=0.5.1
+git+git://github.com/simonsanvil/googleBucketManager.git
+git+git://github.com/simonsanvil/subplotted.git
