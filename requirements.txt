@@ -9,7 +9,7 @@ praw==7.2.0
 torch==1.8.1+cu101
 torchvision==0.9.1+cu101
 #NLP
-nltk==3.2.5
+nltk>=3.4.5
 spacy==3.0.6
 gensim==3.6.0
 #utils
